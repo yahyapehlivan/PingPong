@@ -1,3 +1,3 @@
 # PingPong
 
-yahya
+My game is called ping pong.
